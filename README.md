@@ -10,9 +10,10 @@ Localidade: IFRN-CNAT-DIATINF
 
 Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
-Aluno:  [Elizia Regina de Oliveira Silva] (https://github.com/Elizia-olivr)
+Aluno:  [Elizia Regina de Oliveira Silva](https://github.com/Elizia-olivr)
 
 ## Log do projeto
 | Data | Descrição |
+|--- | ---|
 |30/03 | arquivo inicial de POS|
 
